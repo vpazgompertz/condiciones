@@ -1,0 +1,8 @@
+#border {
+  width: 300px;
+  margin: 3rem;
+}
+
+#border.borde {
+  border: 2px solid red;
+}
